@@ -50,7 +50,7 @@ const Contact=()=>{
   <textarea class="form-control" id="exampleFormControlTextarea1" name="msg" value={data.msg} onChange={inputEvent} rows="3"></textarea>
 </div>
 <div class="col-12">
-    <button class="btn btn-outline-primary" type="submit">Submit form</button>
+    <button class="btn btn-outline-primary" type="submit">Submit Form</button>
   </div>
 
             </form>
