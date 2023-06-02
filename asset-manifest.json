@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite%20/static/css/main.f9498682.css",
+    "main.js": "/reactlivewebsite%20/static/js/main.9334b987.js",
+    "static/js/787.9caf417c.chunk.js": "/reactlivewebsite%20/static/js/787.9caf417c.chunk.js",
+    "static/media/android_dev.jpg": "/reactlivewebsite%20/static/media/android_dev.0636261a7d28aadb10c1.jpg",
+    "static/media/img1.jpg": "/reactlivewebsite%20/static/media/img1.f611e2978499c82ecff7.jpg",
+    "static/media/app_dev.avif": "/reactlivewebsite%20/static/media/app_dev.ec9f94a67eac87c7ed87.avif",
+    "static/media/software_dev.jpg": "/reactlivewebsite%20/static/media/software_dev.d967abb58fda25fe9842.jpg",
+    "static/media/digital.jpg": "/reactlivewebsite%20/static/media/digital.0b882b263fb9702b301f.jpg",
+    "static/media/digital_mark.png": "/reactlivewebsite%20/static/media/digital_mark.c7c47b00c4238b58f5ab.png",
+    "static/media/web_dev.jpg": "/reactlivewebsite%20/static/media/web_dev.54c40787d51645b554b8.jpg",
+    "static/media/img2.avif": "/reactlivewebsite%20/static/media/img2.e2454d475c07a191a096.avif",
+    "index.html": "/reactlivewebsite%20/index.html",
+    "main.f9498682.css.map": "/reactlivewebsite%20/static/css/main.f9498682.css.map",
+    "main.9334b987.js.map": "/reactlivewebsite%20/static/js/main.9334b987.js.map",
+    "787.9caf417c.chunk.js.map": "/reactlivewebsite%20/static/js/787.9caf417c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9498682.css",
+    "static/js/main.9334b987.js"
+  ]
+}
